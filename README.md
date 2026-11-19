@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Eclipse Nova es un grupo musical de pop-rock formado por cinco jóvenes apasionados por la música. Su estilo combina melodías pegadizas, ritmos modernos y letras llenas de emociones.
+Grupo Musical 6 es un grupo musical de pop-rock formado por cinco jóvenes apasionados por la música. Su estilo combina melodías pegadizas, ritmos modernos y letras llenas de emociones.
 
 Su objetivo es transmitir sentimientos a través de sus canciones, conectar con el público y crear música original.
 
